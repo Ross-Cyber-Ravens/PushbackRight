@@ -1,0 +1,24 @@
+-48.509, -13.457, 86.656
+-46.511, -13.543, 83.673
+-44.512, -13.608, 80.58
+-42.513, -13.653, 77.364
+-40.513, -13.687, 74.008
+-38.513, -13.725, 70.493
+-36.515, -13.804, 66.792
+-34.525, -13.999, 62.876
+-32.576, -14.438, 58.703
+-30.749, -15.239, 54.213
+-29.103, -16.372, 49.312
+-27.612, -17.703, 43.862
+-26.216, -19.136, 37.629
+-24.876, -20.62, 30.133
+-23.565, -22.13, 20
+-23.01, -22.779, 0
+-23.01, -22.779, 0
+-10.017, -37.984, 0
+endData
+127
+100
+200
+-48.509, -13.457, -31.784, -14.28, -32.332, -11.812, -23.01, -22.779
+#PATH.JERRYIO-DATA {"appVersion":"0.10.0","format":"LemLib v0.5","gc":{"robotWidth":10,"robotHeight":12,"robotIsHolonomic":false,"showRobot":true,"uol":2.54,"pointDensity":2,"controlMagnetDistance":1.968503937007874,"fieldImage":{"displayName":"V5RC 2026 - Push Back","signature":"V5RC-PushBack-H2H-TopDownHighlighted-TileColor66_71","origin":{"__type":"built-in"}},"coordinateSystem":"Cartesian Plane"},"paths":[{"segments":[{"controls":[{"uid":"VEhxKL1E1O","x":-48.50928106657663,"y":-13.457096954581058,"lock":false,"visible":true,"heading":90,"__type":"end-point"},{"uid":"8Sqqglr95O","x":-31.78383371714652,"y":-14.27965993897926,"lock":false,"visible":true,"__type":"control"},{"uid":"pVJ4hfnsNv","x":-32.33220904007866,"y":-11.811970985784654,"lock":false,"visible":true,"__type":"control"},{"uid":"vay0mscOHq","x":-23.00982855023237,"y":-22.779477444427346,"lock":false,"visible":true,"heading":130,"__type":"end-point"}],"speedProfiles":[],"lookaheadKeyframes":[],"uid":"f7HvV7XWzz"}],"pc":{"speedLimit":{"minLimit":{"value":0,"label":"0"},"maxLimit":{"value":127,"label":"127"},"step":1,"from":20,"to":100},"bentRateApplicableRange":{"minLimit":{"value":0,"label":"0"},"maxLimit":{"value":1,"label":"1"},"step":0.001,"from":0,"to":0.1},"maxDecelerationRate":127},"name":"Path","uid":"UOKbJbR5Vt","lock":false,"visible":true}]}
